@@ -1,0 +1,6 @@
+*.hi
+*.o
+logs
+*.cfg
+*.csv
+programs
