@@ -16,7 +16,7 @@ import System.IO
 import System.Console.GetOpt
 import Text.Printf
 
-import VMPSDatabase
+import VMPS.Database
 
 -- @<< Options handling >>
 -- @+node:gcross.20091211140008.1288:<< Options handling >>

@@ -21,7 +21,6 @@
 <v t="gcross.20091211140008.1284"><vh>#7</vh></v>
 </v>
 <v t="gcross.20091211100630.1307"><vh>@path sources</vh>
-<v t="gcross.20091211100630.1316"><vh>@thin VMPSDatabase.hs</vh></v>
 <v t="gcross.20091211100630.1380"><vh>@thin plot-gadget-state-difference.hs</vh></v>
 <v t="gcross.20091211140008.1287"><vh>@thin plot-gadget-energy-gap.hs</vh></v>
 </v>

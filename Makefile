@@ -13,7 +13,7 @@ HFLAGS = -O2 -fvia-C -optc=-O3 -isources
 
 GHCMAKE = ghc --make ${HFLAGS} ${LIBS}
 
-programs/%: sources/%.hs Makefile sources/VMPSDatabase.hs
+programs/%: sources/%.hs Makefile /usr/local/lib/VMPS-0.1/ghc-6.10.4/libvmps.a
 	${GHCMAKE} $< -o $@
 #@-node:gcross.20091211100630.1234:@thin Makefile
 #@-leo

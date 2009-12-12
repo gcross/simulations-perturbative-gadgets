@@ -21,8 +21,7 @@ import System.IO
 import System.Console.GetOpt
 import Text.Printf
 
-import VMPSDatabase
-
+import VMPS.Database
 import VMPS.Models
 import VMPS.Operators
 import VMPS.Paulis
