@@ -21,8 +21,11 @@
 <v t="gcross.20091211140008.1284"><vh>#7</vh></v>
 </v>
 <v t="gcross.20091211100630.1307"><vh>@path sources</vh>
+<v t="gcross.20091211140008.1289"><vh>@thin Models.hs</vh></v>
 <v t="gcross.20091211100630.1380"><vh>@thin plot-gadget-state-difference.hs</vh></v>
 <v t="gcross.20091211140008.1287"><vh>@thin plot-gadget-energy-gap.hs</vh></v>
+<v t="gcross.20091215162646.1343"><vh>@thin sweep-bitslayer-gadget.hs</vh></v>
+<v t="gcross.20091211140008.1719"><vh>@thin simulate-gadget.hs</vh></v>
 </v>
 </vnodes>
 <tnodes>

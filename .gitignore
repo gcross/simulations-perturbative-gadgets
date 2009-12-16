@@ -4,3 +4,4 @@ logs
 *.cfg
 *.csv
 programs
+curve.*
